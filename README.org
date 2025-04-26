@@ -1,0 +1,7 @@
+#+TITLE: Hi! I'm Raiden (he/him)
+#+OPTIONS: toc:nil
+#+OPTIONS: num:nil
+
+I love to combine art, math, and programming, and am always finding new things to learn and projects to start in my free time.
+
+I work as a Software Engineer for the [[https://cdlib.org][California Digital Library]] building Zephir, the MARC metadata ingest and management system for the 18 million items in the [[https://hathitrust.org][HathiTrust Digital Library]], as well as machine learning projects for metadata remediation and accessibility.
