@@ -9,6 +9,6 @@ I work as a Software Engineer for the [[https://cdlib.org][California Digital Li
 **** Areas of Interest (in no particular order)
 - Machine Learning
 - Computer Graphics
-- Natural simulations (plant growth, land formation)
+- Natural processes (e.g., plant growth, terrain formation, erosion, weather patterns)
 - MARC Cataloging
 - Typography
