@@ -4,7 +4,7 @@
 *** Hi! I'm Raiden.
 I'm a passionate learner and love to combine art, math, and programming. I'm always exploring new technologies and finding new interests.
 
-I work as a Software Engineer for the [[https://cdlib.org][California Digital Library]] building Zephir, the MARC metadata ingest and management system for the 18 million items in the [[https://hathitrust.org][HathiTrust Digital Library]]. I also develop and train machine learning models for libraries such as entity matching, metadata remediation, and accessibility improvement.
+I work as a Software Engineer for the [[https://cdlib.org][California Digital Library]] building Zephir, the MARC metadata ingest and management system for the 19 million digitized items in the [[https://hathitrust.org][HathiTrust Digital Library]]. I also develop and train machine learning models for libraries such as entity matching, metadata remediation, and accessibility improvement.
 
 **** Areas of Interest (in no particular order)
 - Machine Learning
